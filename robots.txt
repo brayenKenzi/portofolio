@@ -1,0 +1,5 @@
+# Allow all web crawlers to access the entire site.
+User-agent: *
+Allow: /
+
+Sitemap: https://brayenkenzi.my.id/sitemap.xml
